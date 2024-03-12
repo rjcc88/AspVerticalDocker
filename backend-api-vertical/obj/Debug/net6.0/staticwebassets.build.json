@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bMT4pKDzqGr74+KnoFetIYiIJn3QoEN3J3wEMDugrpI=",
+  "Source": "backend-api-vertical",
+  "BasePath": "_content/backend-api-vertical",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
